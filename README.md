@@ -6,7 +6,7 @@
 
 ![](Images/2.PNG)
 
-After finding your target. Find some url of the target. Now you can test the URL with this script
+After finding your target. Find some url of the target. Now you can test the URL with this script. Sometimes not working properly :)
 ---- Note: 3rd Image not in Hackerone
 
 ![](Images/3.png)
