@@ -25,4 +25,4 @@ echo "                             "
 echo "                             "
 echo "Some Sensitive Keywords"
 echo "-----------------------"
-grep 'api\|key\|host' output3.txt 
+curl $url | grep 'api\|key\|host\|token'  
