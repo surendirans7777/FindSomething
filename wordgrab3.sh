@@ -34,6 +34,6 @@ echo "                             "
 
 echo "$(tput setaf 1)$(tput setab 7)Found Sensitive Items$(tput sgr 0)"
 echo "-----------------------"
-curl --silent $url | grep 'api\|key\|host\|token'
-curl --silent $url | grep 'api\|key\|host\|token'  > sensitive.txt
+curl --silent $url | sed -e 's/<[^>]*>//g' | grep --color=auto 'api\|key\|host\|token\|password\|dbuser\|secret\|access\|bucket\|redis\|root' 
+curl --silent $url | sed -e 's/<[^>]*>//g' | grep --color=auto 'api\|key\|host\|token\|password\|dbuser\|secret\|access\|bucket\|redis\|root'  > sensitive.txt
 echo "                             "
