@@ -1,13 +1,5 @@
 # FindSomething
-Enter Domain -  Find Sensitive Keywords (Or) Check the Lengthy keywords
-
-
-![](Images/1.PNG)
-
-![](Images/2.PNG)
-
-After finding your target. Find some url of the target. Now you can test the URL with this script. Sometimes not working properly :)
----- Note: 3rd Image not in Hackerone
+After Finding hidden enpoints from LinkFinder pass it to FindSomething :)
 
 ![](Images/3.png)
 
