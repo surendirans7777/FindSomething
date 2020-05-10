@@ -1,6 +1,8 @@
 # FindSomething
 Manual work required.
-Got some URL/js/enpoints/etc... pass it to Findsomething !!!
+Got some URL/js/enpoints/etc tired of searching manually... pass it to Findsomething !!!
+
+
 
 ![](Images/3.png)
 
