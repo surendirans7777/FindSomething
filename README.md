@@ -1,5 +1,6 @@
 # FindSomething
-After Finding hidden url,js or any files from LinkFinder (https://github.com/GerbenJavado/LinkFinder) pass it to FindSomething to get sensitive items :)
+Manual work required.
+Got some URL/js/enpoints/etc... pass it to Findsomething !!!
 
 ![](Images/3.png)
 
