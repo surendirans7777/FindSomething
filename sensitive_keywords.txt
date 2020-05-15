@@ -26,6 +26,8 @@ authorization
 authorization_key
 authorization_token
 authtoken
+amazonaws.com
+amazonaws
 aws_access_key_id
 aws_secret_access_key
 bearer
