@@ -25,3 +25,5 @@ $ ./waybackurls domain.com | grep .js > url_list
 
 
 **Just give a try && leave your comments**
+
+### Script Kiddie Stuffs :)
