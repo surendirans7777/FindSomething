@@ -24,4 +24,4 @@ $ ./waybackurls domain.com | grep .js > url_list
 
 
 
-**Made a little contribution for TCSC :)**
+**Just give a try && leave your comments**
